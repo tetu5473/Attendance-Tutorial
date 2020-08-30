@@ -9,3 +9,4 @@
 * Rails
 * Git(HTTPSからSSH通信へ変更)
 * Git(HTTPSからSSH通信へ変更)2020/8/30
+* Git(HTTPSからSSH通信へ変更)2020/8/30-2
